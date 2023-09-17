@@ -15,4 +15,4 @@ Demographic info about customers – gender, age range, and if they have partner
 Inspiration
 To explore this type of models and learn more about the subject.
 
-# Used TensorFlow to make to make ANN model
+### Used TensorFlow to make to make ANN model
