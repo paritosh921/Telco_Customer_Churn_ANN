@@ -14,3 +14,5 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 Inspiration
 To explore this type of models and learn more about the subject.
+
+# Used TensorFlow to make to make ANN model
